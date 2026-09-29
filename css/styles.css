@@ -259,7 +259,7 @@ html {
 	background-color: var(--bg-light);
 	border-radius: 0.5rem;
 	box-shadow: 4px 4px 16px 0px rgba(30, 37, 52, 0.10);
-	transition: scale .51s ease;
+	transition: scale .5s ease;
 
 	&:hover {
 		scale: 1.1;
